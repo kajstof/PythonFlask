@@ -24,16 +24,36 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df73535a-ad38-49aa-b78b-c1f4bef6ea30" name="Default Changelist" comment="" />
+    <list default="true" id="df73535a-ad38-49aa-b78b-c1f4bef6ea30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PythonFlask.dir/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PythonFlask.dir/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PythonFlask.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PythonFlask.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/start.sh" />
       </list>
     </option>
   </component>
@@ -47,7 +67,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -101,6 +123,8 @@
       <workItem from="1579030897641" duration="11000" />
       <workItem from="1579030924479" duration="404000" />
       <workItem from="1579031361604" duration="2886000" />
+      <workItem from="1579064135818" duration="4494000" />
+      <workItem from="1579080102982" duration="248000" />
     </task>
     <servers />
   </component>
@@ -109,18 +133,33 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="734" y="360" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579030045785">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state x="551" y="268" width="836" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579074040378">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="551" y="268" width="836" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1050/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579074040378" />
     <state x="734" y="360" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1579030045785" />
     <state x="1059" y="460" key="FileChooserDialogImpl" timestamp="1579031046935">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1059" y="460" key="FileChooserDialogImpl/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1579031046935" />
-    <state x="781" y="348" key="SettingsEditor" timestamp="1579031429262">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state x="586" y="259" key="SettingsEditor" timestamp="1579079268444">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="586" y="259" key="SettingsEditor/-1920.0.1920.1050/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579079268444" />
     <state x="781" y="348" key="SettingsEditor/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1579031429262" />
     <state x="1035" y="550" key="cloudConfig.PluginsDialog" timestamp="1579029180182">
       <screen x="0" y="0" width="2560" height="1410" />
@@ -130,9 +169,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1035" y="550" key="cloudConfig.SelfSettingsDialog/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1579029192429" />
-    <state x="943" y="317" key="search.everywhere.popup" timestamp="1579032665791">
-      <screen x="0" y="0" width="2560" height="1410" />
+    <state x="707" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1579080162563">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state x="707" y="236" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/1920.0.1920.1080/0.0.1920.1050@0.0.1920.1050" timestamp="1579080162563" />
     <state x="943" y="317" key="search.everywhere.popup/0.0.2560.1410/-1920.0.1920.1050@0.0.2560.1410" timestamp="1579032665791" />
   </component>
 </project>
